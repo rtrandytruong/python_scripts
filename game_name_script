@@ -1,3 +1,5 @@
+#Script used to get name information and small details from game-names in the directory
+
 import os
 import json
 import shutil
